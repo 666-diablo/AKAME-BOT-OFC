@@ -63,11 +63,11 @@ Você pode editar o bot aqui `'./dono/settings.json'`
 
 ```ts
 {
-	"ownername":"ZeeoneOfc",
-	"ownernumber":"62887435047326",
-	"botname":"Haruka-Bot",
-	"thumbnail":"./settings/haruka.jpg",
-	"session_name":"./session.json"
+	"prefix": ".",
+	"NomeDoBot": "𓆩ꪶ͢͜𝐀𝐊𝐀𝐌𝐄-𝐁𝐎𝐓_𝐎𝐅𝐂ꫂ𓆪",
+	"NickDono": "ᬊ⃔⃕͜𝐃𝐈𝚫𝐁𝐋͢𝚯♱᭄⛧⁶⁶⁶",
+	"numerodono": "12514406419",
+	"dapuhykey": "0xFKM4Rx5B"
 }
 ```
 ## Doar
