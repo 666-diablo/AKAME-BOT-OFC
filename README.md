@@ -20,15 +20,15 @@
 <a href="https://github.com/666-diablo/AKAME-BOT-OFC/network/members"><img title="Forks" src="https://img.shields.io/github/forks/666-diablo/AKAME-BOT-OFC?color=red&style=flat-square"></a>
 <a href="https://github.com/666-diablo/AKAME-BOT-OFC/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/666-diablo/AKAME-BOT-OFC?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/666-diablo/AKAME-BOT-OFC"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/666-diablo/AKAME-BOT-OFC/"><img title="Size" src="https://img.shields.io/github/repo-size/666-diablo/AKAME-BOT-OFC?style=flat-square&color=green"></a>
+<a href="https://github.com/666-diablo/AKAME-BOT-OFC/"><img title="Peso" src="https://img.shields.io/github/repo-size/666-diablo/AKAME-BOT-OFC?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F666-diablo%2FAKAME-BOT-OFC&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/666-diablo/AKAME-BOT-OFC/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeoneofc/Haruka#Instalação">Instalação</a> •
-  <a href="https://github.com/zeeoneofc/Haruka#Redes">Redes</a> •
-  <a href="https://github.com/zeeoneofc/Haruka#Aqui você pode editar o bot">Settings</a>
+  <a href="#Instalação">Instalação</a> •
+  <a href="https://github.com/666-diablo/AKAME-BOT-OFC#Redes">Redes</a> •
+  <a href="https://github.com/666-diablo/AKAME-BOT-OFC#Aqui você pode editar o bot">Settings</a>
 
 </p>
 </div>
@@ -37,7 +37,7 @@
 # Instalação
 ## Heroku Buildpack
 
-Click the deploy icon below !
+Clique no ícone de implantação abaixo!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/666-diablo/AKAME-BOT-OFC)
 
