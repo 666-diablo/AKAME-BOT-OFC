@@ -53,14 +53,13 @@ Click the deploy icon below !
 ```bash
 > apt update && apt upgrade
 > pkg install libweb nodejs git ffmpeg
-> git clone https://github.com/zeeoneofc/Haruka.git
-> cd Haruka
-> npm install
-> node haruka.js
+> git clone https://github.com/666-diablo/AKAME-BOT-OFC
+> cd AKAME-BOT-OFC
+> sh start.sh
 ```
 
 ## settings
-You can edit owner and other in `'./settings/config.json'`
+Você pode editar o bot aqui `'./dono/settings.json'`
 
 ```ts
 {
@@ -71,7 +70,7 @@ You can edit owner and other in `'./settings/config.json'`
 	"session_name":"./session.json"
 }
 ```
-## Donate
+## Doar
 - [Saweria](https://saweria.co/zeeoneofc)
 - [Dana](https://j.top4top.io/p_20532posd1.jpg)
 - [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
