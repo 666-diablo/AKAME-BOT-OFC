@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://zeeoneofc.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+haruka+bot+🤗"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Obligado+por+usar+Akame+bot+❤️"
             alt="Diablo"
         />
     </a>
@@ -12,7 +12,7 @@
 
 </p>
 <p align="center">
-<a href="https://zeeoneofc.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Diablo-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/666-diablo"><img title="Creator" src="https://img.shields.io/badge/Creator-Diablo-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
