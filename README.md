@@ -16,21 +16,19 @@
 </p>
 <p align="center">
 <a href="https://wa.me/12514406419"><img title="Dono" src="https://img.shields.io/github/followers/666-diablo?color=red&style=flat-square"></a>
-<a href="https://github.com/666-diablo/AKAME-BOT-OFC/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Haruka?color=blue&style=flat-square"></a>
-<a href="https://github.com/666-diablo/AKAME-BOT-OFC/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Haruka?color=red&style=flat-square"></a>
-<a href="https://github.com/666-diablo/AKAME-BOT-OFC/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/Haruka?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/666-diablo/AKAME-BOT-OFC/stargazers/"><img title="Estrelas" src="https://img.shields.io/github/stars/666-diablo/AKAME-BOT-OFC?color=blue&style=flat-square"></a>
+<a href="https://github.com/666-diablo/AKAME-BOT-OFC/network/members"><img title="Forks" src="https://img.shields.io/github/forks/666-diablo/AKAME-BOT-OFC?color=red&style=flat-square"></a>
+<a href="https://github.com/666-diablo/AKAME-BOT-OFC/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/666-diablo/AKAME-BOT-OFC?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/666-diablo/AKAME-BOT-OFC"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/666-diablo/AKAME-BOT-OFC/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Haruka?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FHaruka&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/666-diablo/AKAME-BOT-OFC/"><img title="Size" src="https://img.shields.io/github/repo-size/666-diablo/AKAME-BOT-OFC?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F666-diablo%2FAKAME-BOT-OFC&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/666-diablo/AKAME-BOT-OFC/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeoneofc/Haruka#instalasi">Installation</a> •
-  <a href="https://github.com/zeeoneofc/Haruka#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeoneofc/Haruka#donate">Donate</a></br>
-  <a href="https://github.com/zeeoneofc/Haruka#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeoneofc/Haruka#settings">Settings</a>
+  <a href="https://github.com/zeeoneofc/Haruka#Instalação">Instalação</a> •
+  <a href="https://github.com/zeeoneofc/Haruka#Redes">Redes</a> •
+  <a href="https://github.com/zeeoneofc/Haruka#Aqui você pode editar o bot">Settings</a>
 
 </p>
 </div>
@@ -58,7 +56,7 @@ Click the deploy icon below !
 > sh start.sh
 ```
 
-## settings
+## Settings
 Você pode editar o bot aqui `'./dono/settings.json'`
 
 ```ts
