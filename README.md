@@ -15,7 +15,7 @@
 <a href="https://github.com/666-diablo"><img title="Creator" src="https://img.shields.io/badge/Creator-Diablo-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/666-diablo/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
+<a href="https://wa.me/12514406419"><img title="Dono" src="https://img.shields.io/github/followers/666-diablo?color=red&style=flat-square"></a>
 <a href="https://github.com/666-diablo/AKAME-BOT-OFC/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Haruka?color=blue&style=flat-square"></a>
 <a href="https://github.com/666-diablo/AKAME-BOT-OFC/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Haruka?color=red&style=flat-square"></a>
 <a href="https://github.com/666-diablo/AKAME-BOT-OFC/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/Haruka?label=Watchers&color=blue&style=flat-square"></a>
